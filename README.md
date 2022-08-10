@@ -2,7 +2,7 @@
 
 <a href="(https://www.linkedin.com/in/marcioamarchetti/)" target="_blank" rel="noreferrer"> <img src="gittop.png" alt="apresentação"/> </a>
 
-<h3 align="center">Atualmente estudo Javascript. <br> Anseio me tornar um desenvolvedor full-stack</h3>
+<h3 align="center">Atualmente estudo Javascript <br> Anseio me tornar um desenvolvedor full stack</h3>
 
 - Projetos que fiz: [TCC](https://www.behance.net/gallery/111154951/Produtos-para-Website-(TCC)/modules/635946773)
 
@@ -26,8 +26,6 @@
 <img height="115em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=maaarrch&show_icons=true&theme=dark&title_color=d80242&text_color=d80242&locale=PT-BR&layout=compact" alt="maaarrch" />
 
 
-<br>
-<br>
 <br>
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maaarrch&theme=dark" alt="maaarrch" />
