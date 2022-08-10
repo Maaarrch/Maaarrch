@@ -1,5 +1,4 @@
 
-<link rel="stylesheet" href="hover.css">
              
 <a href="https://www.linkedin.com/in/marcioamarchetti/"> <img src="gittop.png" alt="apresentação marcio"/> </a>
 
@@ -7,7 +6,7 @@
 
 - Projetos que fiz: [TCC](https://www.behance.net/gallery/111154951/Produtos-para-Website-(TCC)/modules/635946773)
 
-<img align="right" width="270" src="eu.png" alt="computador"/>
+<a href="https://github.com/Maaarrch"><img align="right" width="270" src="eu.png" alt="computador"/></a>
 
 - Algumas das minhas criações: [behance.net/marchm](https://www.behance.net/marchm)
 
