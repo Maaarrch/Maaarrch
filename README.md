@@ -6,7 +6,7 @@
 
 - Projetos que fiz: [TCC](https://www.behance.net/gallery/111154951/Produtos-para-Website-(TCC)/modules/635946773)
 
-<img align="right" width="290" src="eu.png" alt="computador"/>
+<img align="right" width="270" src="eu.png" alt="computador"/>
 
 - Algumas das minhas criações: [behance.net/marchm](https://www.behance.net/marchm)
 
