@@ -21,9 +21,9 @@
 
 <div>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=maaarrch&show_icons=true&theme=dark&title_color=da003d&text_color=da003d&locale=PT-BR" alt="maaarrch" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maaarrch&show_icons=true&theme=dark&title_color=d80242&text_color=d80242&locale=PT-BR" alt="maaarrch" />
 
-<img height="120em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=maaarrch&show_icons=true&theme=dark&title_color=da003d&text_color=da003d&locale=PT-BR&layout=compact" alt="maaarrch" />
+<img height="115em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=maaarrch&show_icons=true&theme=dark&title_color=d80242&text_color=d80242&locale=PT-BR&layout=compact" alt="maaarrch" />
 
 
 <br>
