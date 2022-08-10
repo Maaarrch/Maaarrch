@@ -28,5 +28,7 @@
 
 <br>
 <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maaarrch&theme=dark" alt="maaarrch" />
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Maaarrch&theme=dark&locale=pt-br&stroke=C9D1D9&border=C9D1D9&currStreakNum=D80242&sideNums=D80242&currStreakLabel=D80242&sideLabels=D80242&dates=D80242&fire=E34C26&ring=E34C26" alt="maaarrch" />
 </div>
+
+
