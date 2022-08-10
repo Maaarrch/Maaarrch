@@ -23,7 +23,8 @@
 <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs?username=maaarrch&show_icons=true&theme=dark&title_color=ff0000&text_color=ff0000&locale=PT-BR&layout=compact" alt="maaarrch" />
 
 <img height="150em" align="right" src="https://github-readme-stats.vercel.app/api?username=maaarrch&show_icons=true&theme=dark&title_color=ff0000&text_color=ff0000&locale=PT-BR" alt="maaarrch" />
-
+<br>
+<br>
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maaarrch&theme=dark" alt="maaarrch" />
 </div>
