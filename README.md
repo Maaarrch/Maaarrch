@@ -6,10 +6,11 @@
 
 - Projetos que fiz: [TCC](https://www.behance.net/gallery/111154951/Produtos-para-Website-(TCC)/modules/635946773)
 
+<img align="right" width="400" src="eu.png" alt="computador"/>
+
 - Algumas das minhas criações: [behance.net/marchm](https://www.behance.net/marchm)
 
 
-![night-tutorials-indo-hanging-light](https://user-images.githubusercontent.com/110143083/183993519-27e9258b-0f5a-4ef9-b3d9-46bd1ec46491.gif)
 
 
 
