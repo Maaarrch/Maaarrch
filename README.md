@@ -8,7 +8,11 @@
 
 - Algumas das minhas criações: [behance.net/marchm](https://www.behance.net/marchm)
 
-<img align="right" src="night-tutorials-indo-hanging-light.gif" alt="computador - noite"/>
+
+![night-tutorials-indo-hanging-light](https://user-images.githubusercontent.com/110143083/183993519-27e9258b-0f5a-4ef9-b3d9-46bd1ec46491.gif)
+
+
+
 
 <h3 align="left">Contatos:</h3> 
 <p align="left">
