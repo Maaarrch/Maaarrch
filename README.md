@@ -18,8 +18,8 @@
 <h3 align="left">Contatos:</h3> 
 <p align="left">
  <p align="left">jason29@outlook.com.br </p>
-<a href="https://linkedin.com/in/marcio antonio marchetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcio antonio marchetti" height="30" width="40" /></a>
-<a href="https://www.behance.net/marcio marchetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="marcio marchetti" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marcioamarchetti/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="marcio antonio marchetti" height="35" width="100" /></a>
+<a href="https://www.behance.net/marchm" target="blank"><img align="center" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="marcio marchetti" height="35" width="100" /></a>
 </p>
 
 
