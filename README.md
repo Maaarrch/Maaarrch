@@ -1,6 +1,6 @@
 
 
-<a href="(https://www.linkedin.com/in/marcioamarchetti/)" target="_blank" rel="noreferrer"> <img src="gittop.png" alt="apresentação"/> </a>
+<a href="[(https://www.linkedin.com/in/marcioamarchetti/)](https://www.linkedin.com/in/marcioamarchetti/)"> <img src="gittop.png" alt="apresentação marcio"/> </a>
 
 <h3 align="center">Atualmente estudo Javascript <br> Anseio me tornar um desenvolvedor full stack</h3>
 
