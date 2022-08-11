@@ -4,7 +4,7 @@
 
 
 
-- Projetos que fiz: [TCC](https://www.behance.net/gallery/111154951/Produtos-para-Website-(TCC)/modules/635946773)
+- Projetos que fiz: [Fashion](https://website-fashion.netlify.app)
 
 <a href="https://github.com/Maaarrch"><img align="right" width="270" src="eu.png" alt="computador"/></a>
 
